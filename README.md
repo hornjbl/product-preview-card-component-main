@@ -45,13 +45,71 @@ Walkthrough followed: [Taking on a Frontend Mentor challenge | Responsive Produc
 
 ### What I Learned 2
 
+-   Every HTML page should have one (and ONLY one) `<h1>` element.
 -   Every HTML page should have a `<main>` element.
+-   When starting an HTML page, always start with some sort of reset in the css.
+-   The `<article>` element is used whenever something can be a "standalone" piece of content. In other words, this whole piece can be taken out of this project and put into a whole other site.
+-   Dev tools has a mode that allows you to see the site in different sizes, including presets for various devices. (ctrl+shift+m)
 
 ### Questions That Need Answering 2
 
 NOTE: After answering these questions, move them to the "What I Learned" section.
 
--   Kevin used an `<article>` element. Find out when and for what to use this element.
+-   What are the differences between an `<img>` and `<picture>` element? Kevin started off with an `<img>` element, but said that he will later switch to the `<picture>` element. He then embedded the `<img>` tag inside a `<picture>` tag.
+-   Kevin made a statement that heading element identifiers shouldn't be used for styling purposes, and that a class should rather be used. Why is that?
+
+### Standard HTML Reset
+
+[Josh Comeau's reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+
+```
+/*
+  1. Use a more-intuitive box-sizing model.
+*/
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+/*
+  2. Remove default margin
+*/
+* {
+  margin: 0;
+}
+/*
+  Typographic tweaks!
+  3. Add accessible line-height
+  4. Improve text rendering
+*/
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+/*
+  5. Improve media defaults
+*/
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+/*
+  6. Remove built-in form typography styles
+*/
+input, button, textarea, select {
+  font: inherit;
+}
+/*
+  7. Avoid text overflows
+*/
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+/*
+  8. Create a root stacking context
+*/
+#root, #__next {
+  isolation: isolate;
+}
+```
 
 ## My process
 
