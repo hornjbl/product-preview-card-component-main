@@ -52,6 +52,15 @@ Walkthrough followed: [Taking on a Frontend Mentor challenge | Responsive Produc
 -   The [standard HTML reset](#standard-html-reset) also takes care of non-responsive images when changing display sizes.
 -   The `<article>` element is used whenever something can be a "standalone" piece of content. In other words, this whole piece can be taken out of this project and put into a whole other site.
 -   Dev tools has a mode that allows you to see the site in different sizes, including presets for various devices. (ctrl+shift+m)
+-   You should use em or rem (preferrably rem) for font sizes instead of pixels.
+-   In the style guide provided, there are screen width sizes provided. To which elements in the HTML should these widths be applied to? ANSWER: It seems that Kevin uses the screen size feature on DEV tools, and then puts the size to those specified in the style guide (375px for mobile), and then styles everything from there.
+-   When using a flex group (like the one applied to the price elements), Kevin advises that the `flex-wrap: wrap` property be set in case the elements ever get small enough to cause wrapping issues.
+-   When rounding the borders on the main container, it didn't work at first. This was because the content overflows the container element's boundaries. This can be fixed by setting the `overflow: hidden` property on the container element.
+-   Locally scoped custom properties can be defined inside elements, only making it available to other elements containted by that element.
+-   Remember: Use temporary borders to visually see what elements looks like and how styling affects them.
+-   It's a good idea to globally reduce the line-height of bigger text elements like h1, h2 and h3 (anything bigger than 1.5rem).
+-   Remember to check responsive details to the project.
+-   Add to cart button: There are different ways to add the svg to the button. One way is to add the `data` attribute instead of adding the svg as an `<img>` element.
 
 ### Questions That Need Answering 2
 
@@ -60,6 +69,7 @@ NOTE: After answering these questions, move them to the "What I Learned" section
 -   What are the differences between an `<img>` and `<picture>` element? Kevin started off with an `<img>` element, but said that he will later switch to the `<picture>` element. He then embedded the `<img>` tag inside a `<picture>` tag.
 -   Kevin made a statement that heading element identifiers shouldn't be used for styling purposes, and that a class should rather be used. Why is that?
 -   Watch Kevin's playlist on [custom properties](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOT2KBB5TSbD77OmfHvtqUi).
+-   How do you calculate rem sizes from pixel sizes?
 
 ### Standard HTML Reset
 
