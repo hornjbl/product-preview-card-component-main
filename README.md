@@ -52,6 +52,12 @@ I plan on re-doing this a few times, to a) start embedding these concepts into m
 
 One of the walk-throughs I plan on watching will be [this one here](https://www.youtube.com/watch?v=B2WL6KkqhLQ) by Kevin Powell.
 
+The approach on learning is thus as follows:
+
+-   Try the challenge by myself.
+-   Work through a walk-through, coding along.
+-   Re-try the challenge, trying to incorporate lessons-learned while doing so.
+
 <!--
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
