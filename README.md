@@ -59,7 +59,7 @@ NOTE: After answering these questions, move them to the "What I Learned" section
 
 -   What are the differences between an `<img>` and `<picture>` element? Kevin started off with an `<img>` element, but said that he will later switch to the `<picture>` element. He then embedded the `<img>` tag inside a `<picture>` tag.
 -   Kevin made a statement that heading element identifiers shouldn't be used for styling purposes, and that a class should rather be used. Why is that?
--   Watch Kevin's playlist on [custom properties](https://www.youtube.com/watch?v=PHO6TBq_auI&t=0s).
+-   Watch Kevin's playlist on [custom properties](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOT2KBB5TSbD77OmfHvtqUi).
 
 ### Standard HTML Reset
 
