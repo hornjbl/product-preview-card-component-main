@@ -46,6 +46,12 @@ Users should be able to:
 
 ### What I learned
 
+Got to do my first practice-run of flexbox and its related concepts. Still need a lot of practice.
+
+I plan on re-doing this a few times, to a) start embedding these concepts into my memory, b) get more fluent with the process, and c) see how I can incorporate some stuff learned via video links.
+
+One of the walk-throughs I plan on watching will be [this one here](https://www.youtube.com/watch?v=B2WL6KkqhLQ) by Kevin Powell.
+
 <!--
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -70,6 +76,12 @@ const proudOfThisFunc = () => {
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.-->
 
 ### Continued development
+
+Need to work on a few things:
+
+-   The sizing of the component. It is quite obvious that it's not the size that it's supposed to be.
+-   Vertical alignment of the entire component.
+-   The responsiveness of the website and compatibility with different devices and screen sizes.
 
 <!--
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.-->
