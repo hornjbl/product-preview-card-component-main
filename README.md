@@ -8,6 +8,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
     -   [The challenge](#the-challenge)
     -   [Screenshot](#screenshot)
     -   [Links](#links)
+-   [Second Try](#second-try)
+    -   [What I learned](#what-i-learned-2)
+    -   [Questions That Need Answering](#questions-that-need-answering-2)
 -   [My process](#my-process)
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
@@ -35,6 +38,16 @@ Users should be able to:
 
 -   Solution URL: [Github Link](https://github.com/hornjbl/product-preview-card-component-main)
 -   Live Site URL: [Netlify Link](https://sweet-daffodil-334629.netlify.app/)
+
+## Second Try
+
+Walkthrough followed: [Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component](https://www.youtube.com/watch?v=B2WL6KkqhLQ&).
+
+### What I Learned 2
+
+-
+
+### Questions That Need Answering 2
 
 ## My process
 
