@@ -89,6 +89,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 -   Frontend Mentor - [@hornjbl](https://www.frontendmentor.io/profile/hornjbl)
 -   Github - [@hornjbl](https://github.com/hornjbl)
+-   Netlify - [@hornjbl](https://app.netlify.com/teams/hornjbl/overview)
 
 ## Acknowledgments
 
