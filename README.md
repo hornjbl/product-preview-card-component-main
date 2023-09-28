@@ -49,6 +49,8 @@ Walkthrough followed: [Taking on a Frontend Mentor challenge | Responsive Produc
 
 ### Questions That Need Answering 2
 
+NOTE: After answering these questions, move them to the "What I Learned" section.
+
 -   Kevin used an `<article>` element. Find out when and for what to use this element.
 
 ## My process
