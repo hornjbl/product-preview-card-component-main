@@ -45,9 +45,11 @@ Walkthrough followed: [Taking on a Frontend Mentor challenge | Responsive Produc
 
 ### What I Learned 2
 
--
+-   Every HTML page should have a `<main>` element.
 
 ### Questions That Need Answering 2
+
+-   Kevin used an `<article>` element. Find out when and for what to use this element.
 
 ## My process
 
