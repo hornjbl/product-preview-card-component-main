@@ -48,7 +48,8 @@ Walkthrough followed: [Taking on a Frontend Mentor challenge | Responsive Produc
 
 -   Every HTML page should have one (and ONLY one) `<h1>` element.
 -   Every HTML page should have a `<main>` element.
--   When starting an HTML page, always start with some sort of reset in the css (see [Standard HTML Reset](#standard-html-reset))
+-   When starting an HTML page, always start with some sort of reset in the css (see [Standard HTML Reset](#standard-html-reset)).
+-   The [standard HTML reset](#standard-html-reset) also takes care of non-responsive images when changing display sizes.
 -   The `<article>` element is used whenever something can be a "standalone" piece of content. In other words, this whole piece can be taken out of this project and put into a whole other site.
 -   Dev tools has a mode that allows you to see the site in different sizes, including presets for various devices. (ctrl+shift+m)
 
@@ -58,6 +59,7 @@ NOTE: After answering these questions, move them to the "What I Learned" section
 
 -   What are the differences between an `<img>` and `<picture>` element? Kevin started off with an `<img>` element, but said that he will later switch to the `<picture>` element. He then embedded the `<img>` tag inside a `<picture>` tag.
 -   Kevin made a statement that heading element identifiers shouldn't be used for styling purposes, and that a class should rather be used. Why is that?
+-   Watch Kevin's playlist on [custom properties](https://www.youtube.com/watch?v=PHO6TBq_auI&t=0s).
 
 ### Standard HTML Reset
 
